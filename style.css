@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #004445;
+}
+.title{
+    color: white;
+    font-size: 90px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.dogs{
+    margin: 0 auto;
+    max-width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.img{
+    outline: 1px solid blue;
+    border-radius: 20px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 285px;
+    height: 260px;
+}
